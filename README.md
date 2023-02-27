@@ -1,2 +1,1 @@
-# Hello_World
-你好世界！
+# Hello_World！
